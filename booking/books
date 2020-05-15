@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>web desgin</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="css/main.css" >
+	<link rel="stylesheet" href="css/normlize.css" >
+	<script type="js/html5shiv.min.js"></script>
+	<link rel="stylesheet" href="css/font-awesome.min.css" >
+</head>
+<body>
+<!-------------star header ------------------->
+<div class="container">
+<header>
+	<ul>
+		<li> Home</li>
+		<li> Contact</li>
+		<li class="active">Book Online</li>
+	</ul>
+</header>
+
+<!-------------end header ------------------->
+
+
+<!--- libary jguary --->
+<script type="js/jquery-3.3.1.min.js"></script>
+	<!---- script ---->
+	<script type="js/plugin.js"></script>
+
+</body>
+</html>

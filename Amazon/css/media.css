@@ -1,0 +1,35 @@
+@media (max-width: 767px){
+ .navbar-invers .navbar-nav >li >a{
+ 	padding-bottom: 10px;
+ 	padding-top: 10px;
+ }
+.subscript .form-control {
+ 	margin :20px auto;
+ }
+ .collapse navbar-collapse{
+ 	max-height: none;
+ }
+
+}
+
+/****************** mediam screen ******************/
+@media  (min-width: 768px) and (max-width: 991px){
+ h1{
+ 	color: #f00;
+ 	font-size:100px;
+ }
+}
+
+/****************** larg screen ******************/
+@media  (min-width: 992px) and (max-width: 1190px){
+ h1{
+ 	color: #00f;
+ }
+}
+
+@media (max-width: 1200px){
+	h2{
+		color:yellow
+	}
+	
+}

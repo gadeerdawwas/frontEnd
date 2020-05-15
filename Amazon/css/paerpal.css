@@ -1,0 +1,19 @@
+
+nav .active ,.option-box .color-option li,
+.option-box .gaer-check ,.news  ,.dropdown-divider ,.dropdown-menu a:hover,
+.dropdown-menu a:focus ,.dropdown-menu  ,.contact-us  .btn-primary
+{
+	background-color: #f426d5;
+}
+.option-box .color-option ,.testimoniale .carousel-indicators li .active{
+border:3px solid #f426d5;
+
+}
+
+
+
+
+.testimoniale span ,.about h2 span , footer span ,footer h3{
+
+	color:#f426d5;
+}
